@@ -1,16 +1,15 @@
 # Netflix Clonedemo
 
+Attribution
+Certain code or resources used in this project were sourced from GitHub repositories with unclear authorship and licensing information. I have made efforts to adhere to open-source best practices and respect the work of original authors. If you believe your work has been used without proper attribution or violates licensing agreements, please contact to resolve the issue.
+
 ## Table of Contents
 
 - [Description](#description)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Description
 
@@ -33,6 +32,9 @@ The Netflix Clone project is a web application that replicates the user interfac
 - TMDB API for fetching movie and TV show data
 - Axios for making API requests
 - GitHub Pages for hosting
+- 
+Attribution
+Certain code or resources used in this project were sourced from GitHub repositories with unclear authorship and licensing information. I have made efforts to adhere to open-source best practices and respect the work of original authors. If you believe your work has been used without proper attribution or violates licensing agreements, please contact to resolve the issue.
 
 ## Installation
 
