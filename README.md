@@ -1,8 +1,4 @@
 # Netflix Clonedemo
-
-Attribution
-Certain code or resources used in this project were sourced from GitHub repositories with unclear authorship and licensing information. I have made efforts to adhere to open-source best practices and respect the work of original authors. If you believe your work has been used without proper attribution or violates licensing agreements, please contact to resolve the issue.
-
 ## Table of Contents
 
 - [Description](#description)
